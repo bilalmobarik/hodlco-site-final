@@ -34,6 +34,8 @@ a,p {
 
 body{ 
     overflow: hidden;
+    overflow-x: hidden;
+    width: 100%;
     opacity: 0;
     transition: opacity 2s;
     -webkit-transition: opacity 2s; /* Safari */
