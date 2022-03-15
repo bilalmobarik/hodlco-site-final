@@ -1,10 +1,10 @@
 body {
-    width: 60vh;
+    width: 50vh;
     height: 30vh;
     background-color: white;
     position: absolute;
-    top:5px;
-    bottom: 10px;
+    top:0px;
+    bottom: 0px;
     left: 0px;
     right: 0px;
     text-align: center;
